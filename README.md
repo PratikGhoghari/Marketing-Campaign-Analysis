@@ -98,6 +98,29 @@ AdWords :  0.45
 
     ## ** Regression Analysis **
     - What will happen when we do go with the Facebook Ad? How many facebook ad conversions can I expect given a certain number of facebook ad clicks?
+       ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-click-conversion-prediction.png)
+    - For 50 Clicks, Expected Conversion : 13.0
+    - For 80 Clicks, Expected Conversion : 19.31
+    - Knowing the expected number of Facebook ad conversions based on a certain number of Facebook ad clicks can help in setting realistic campaign goals, optimizing ad spend, and 
+      assessing the ROI of Facebook advertising efforts.
       
+    ## ** Analyzing Facebook Campaign metrics over time. **
+    - At what times of the month or days of the week do we observe the conversions?
+     ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20weekly%20conversion.png)
+     ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20monthly%20conversion.png)
+   - Across the weekdays over a year, the total number of conversions remains relatively consistent, indicating a consistent level of engagement throughout the week. However, Mondays 
+     and Tuesdays consistently exhibit the highest conversion rates compared to other days, suggesting that the beginning of the workweek sees heightened user engagement or           
+     responsiveness to marketing efforts.
+   - Examining the monthly trend in conversions reveals an overall upward trajectory, indicating a general increase in conversions over time. However, certain months stand out with 
+     variations in conversion rates. February, April, May, June, August, and November experience a decline in conversions compared to neighboring months. These periods of decreased 
+     conversion rates could be influenced by factors such as seasonal fluctuations, changes in consumer behavior, or adjustments in marketing strategies.
+     
+     - How does the Cost Per Conversion (CPC) trend over time?
+     ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20monthly%20cost%20per%20conversion.png)
+    - The CPC trend over the 12-month period shows some fluctuations but overall maintains a relatively stable range.
+    - May and November have the lowest CPC values, indicating potentially more cost-effective advertising or higher conversion rates during these periods.
+    - February has the highest CPC value, suggesting that advertising costs may be relatively higher during this month compared to others.
+    - Lower CPC values in certain months (e.g., May and November) could indicate periods of higher advertising effectiveness or more favorable market conditions.
+    - Consider allocating more advertising budget to months with historically lower CPC values (e.g., May and November) to maximize ROI.
 ## **Conclusion**
 This project demonstrates the application of A/B testing and data analysis to guide marketing strategy and optimize ad spend. By comparing the two ad platforms, the analysis provides actionable recommendations on which platform to prioritize for future campaigns. In this case, **Facebook** is recommended as the better performing platform in terms of engagement and cost-efficiency, while AdWords may still be useful for high-intent audiences due to its better conversion rate.
