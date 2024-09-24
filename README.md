@@ -67,5 +67,34 @@ AdWords :  0.45
 - The moderate correlation between clicks on AdWords ads and sales indicates that while AdWords advertising does contribute to sales, its effectiveness may be influenced by other 
   factors. Further analysis is needed to identify these factors and optimize AdWords campaigns accordingly.
 
+  ## ** Hypothesis Testing **
+   **Hypothesis:** Advertising on Facebook will result in a greater number of conversions compared to advertising on AdWords.
+
+   **Null Hypothesis (H0):** There is no difference in the number of conversions between Facebook and AdWords, or the number of conversions from AdWords is greater than or equal to                                     those from Facebook.
+    H0: µ_Facebook ≤ µ_AdWords
+
+    **Alternate Hypothesis (H1):** The number of conversions from Facebook is greater than the number of conversions from AdWords.
+
+    H1: µ_Facebook > µ_AdWords
+      Mean Conversion 
+      --------------
+    Facebook : 11.74
+    AdWords : 5.98
+    T statistic 32.88402060758184 
+    p-value 9.348918164530465e-134
+
+    p-value is less than significance value, Reject the null hypothesis.
+
+   -  The mean number of conversions from Facebook ads (11.74) is substantially higher than the mean number of conversions from AdWords ads (5.98). This suggests that, on average, 
+      Facebook advertising is more effective in generating conversions compared to AdWords advertising.
+   -  The T statistic (32.88) is a measure of the difference between the means of the two groups relative to the variation within the groups. A larger T statistic indicates a greater 
+      difference between the means of the two groups.
+   -  The p-value (9.35e-134) is extremely small, indicating strong evidence against the null hypothesis.
+   -  The results strongly support the alternate hypothesis, indicating that the number of conversions from Facebook advertising is indeed greater than the number of conversions from 
+      AdWords   advertising.
+  -   Facebook advertising appears to be a more effective channel for generating conversions compared to AdWords advertising, based on the sample data analyzed.
+  -   Given the significant difference in conversion rates between Facebook and AdWords, consider reallocating resources towards Facebook advertising efforts. This could involve 
+      increasing  ad spend, expanding targeting efforts, or experimenting with different ad formats to capitalize on the platform's effectiveness in driving conversions.
+      
 ## **Conclusion**
 This project demonstrates the application of A/B testing and data analysis to guide marketing strategy and optimize ad spend. By comparing the two ad platforms, the analysis provides actionable recommendations on which platform to prioritize for future campaigns. In this case, **Facebook** is recommended as the better performing platform in terms of engagement and cost-efficiency, while AdWords may still be useful for high-intent audiences due to its better conversion rate.
