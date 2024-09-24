@@ -39,6 +39,10 @@ The analysis involves:
 - Based on the **cost per conversion**, Facebook had a lower cost per conversion ($12.50) compared to AdWords ($15.00), making **Facebook** the more cost-effective platform overall.
 
 ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/daily_conversion-by-conversion_category.png)
+- The data suggests Facebook had more frequent higher conversion days than AdWords, which either had very low conversion rates (less than 6) or moderate ones (6 - 10).
+- There is a significant variance in the number of high-conversion days between two different campaigns.
+- The absence of any days with conversions between 10 - 15 and more than 15 in AdWords indicates a need to review what strategies were changed or what external factors could have 
+  influenced these numbers.
 
 ## **Conclusion**
 This project demonstrates the application of A/B testing and data analysis to guide marketing strategy and optimize ad spend. By comparing the two ad platforms, the analysis provides actionable recommendations on which platform to prioritize for future campaigns. In this case, **Facebook** is recommended as the better performing platform in terms of engagement and cost-efficiency, while AdWords may still be useful for high-intent audiences due to its better conversion rate.
