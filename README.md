@@ -22,10 +22,9 @@ The dataset contains daily performance data for both Facebook and AdWords ad cam
 
 ## **Project Approach**
 The analysis involves:
-1. **Data Cleaning & Preparation**: Handling missing values, formatting inconsistencies, and outliers in the dataset.
-2. **Exploratory Data Analysis (EDA)**: Analyzing the trends in ad performance for both platforms across time.
-3. **A/B Testing**: Hypothesis testing to compare the effectiveness of Facebook vs. AdWords campaigns based on clicks, conversions, and cost.
-4. **Statistical Testing**: Using hypothesis tests (e.g., t-tests) to validate assumptions and compare campaign performance.
+1. **Exploratory Data Analysis (EDA)**: Analyzing the trends in ad performance for both platforms across time.
+2. **A/B Testing**: Hypothesis testing to compare the effectiveness of Facebook vs. AdWords campaigns based on clicks, conversions, and cost.
+3. **Statistical Testing**: Using hypothesis tests (e.g., t-tests) to validate assumptions and compare campaign performance.
 
 ## **Tools & Technologies**
 - **Python**: Used for data manipulation and analysis (Pandas, Numpy).
