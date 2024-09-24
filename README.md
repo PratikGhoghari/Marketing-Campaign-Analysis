@@ -61,7 +61,7 @@ The analysis involves:
   AdWords Ad Conversions	|           1.000000	         0.447993
   AdWords Ad Clicks	      |           0.447993	         1.000000
 
-  Correlation Coeff 
+correlation coefficient
 --------------
 Facebook : 0.87
 AdWords :  0.45
