@@ -52,17 +52,14 @@ The analysis involves:
 
   ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-adwords-click-conversion.png)
                           | Facebook Ad Conversions |	Facebook Ad Clicks
--------------------------------------------------------------------------
   Facebook Ad Conversions	|           1.000000	         0.873775
   Facebook Ad Clicks	    |           0.873775	         1.000000
 
                           | AdWords Ad Conversions |	AdWords Ad Clicks
--------------------------------------------------------------------------
   AdWords Ad Conversions	|           1.000000	         0.447993
   AdWords Ad Clicks	      |           0.447993	         1.000000
 
 correlation coefficient
---------------
 Facebook : 0.87
 AdWords :  0.45
 
