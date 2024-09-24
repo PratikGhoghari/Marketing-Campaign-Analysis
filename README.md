@@ -50,5 +50,32 @@ The analysis involves:
 - The absence of any days with conversions between 10 - 15 and more than 15 in AdWords indicates a need to review what strategies were changed or what external factors could have 
   influenced these numbers.
 
+  ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-adwords-click-conversion.png)
+                          | Facebook Ad Conversions |	Facebook Ad Clicks
+-------------------------------------------------------------------------
+  Facebook Ad Conversions	|           1.000000	         0.873775
+  Facebook Ad Clicks	    |           0.873775	         1.000000
+
+                          | AdWords Ad Conversions |	AdWords Ad Clicks
+-------------------------------------------------------------------------
+  AdWords Ad Conversions	|           1.000000	         0.447993
+  AdWords Ad Clicks	      |           0.447993	         1.000000
+
+  Correlation Coeff 
+--------------
+Facebook : 0.87
+AdWords :  0.45
+
+- A correlation coefficient of 0.87 indicates a strong positive linear relationship between clicks on Facebook ads and sales. This suggests that as the number of clicks on Facebook ads 
+  increases, sales tend to increase as well.
+- This strong correlation suggests that Facebook ads are highly effective in driving sales, as a large portion of the variation in sales can be explained by the variation in clicks on 
+  Facebook ads.
+- The strong correlation between clicks on Facebook ads and sales suggests that Facebook advertising is highly effective in driving sales for the business. Increasing investment in 
+  Facebook ads or optimizing their performance could potentially lead to even higher sales.
+- A correlation coefficient of 0.45 indicates a moderate positive linear relationship between clicks on AdWords ads and sales. While there is still a positive relationship, it is not as 
+  strong as with Facebook ads.
+- The moderate correlation between clicks on AdWords ads and sales indicates that while AdWords advertising does contribute to sales, its effectiveness may be influenced by other 
+  factors. Further analysis is needed to identify these factors and optimize AdWords campaigns accordingly.
+
 ## **Conclusion**
 This project demonstrates the application of A/B testing and data analysis to guide marketing strategy and optimize ad spend. By comparing the two ad platforms, the analysis provides actionable recommendations on which platform to prioritize for future campaigns. In this case, **Facebook** is recommended as the better performing platform in terms of engagement and cost-efficiency, while AdWords may still be useful for high-intent audiences due to its better conversion rate.
