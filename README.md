@@ -98,7 +98,7 @@ AdWords :  0.45
 
     ## ** Regression Analysis **
     - What will happen when we do go with the Facebook Ad? How many facebook ad conversions can I expect given a certain number of facebook ad clicks?
-       ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-click-conversion-prediction.png)
+      ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-click-conversion-prediction.png)
     - For 50 Clicks, Expected Conversion : 13.0
     - For 80 Clicks, Expected Conversion : 19.31
     - Knowing the expected number of Facebook ad conversions based on a certain number of Facebook ad clicks can help in setting realistic campaign goals, optimizing ad spend, and 
