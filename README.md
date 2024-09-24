@@ -38,6 +38,12 @@ The analysis involves:
 - **AdWords Campaign**: Displayed a **Conversion Rate** of 1.8%, slightly better than Facebook’s Conversion Rate of 1.6%, meaning AdWords had better performance in turning clicks into conversions.
 - Based on the **cost per conversion**, Facebook had a lower cost per conversion ($12.50) compared to AdWords ($15.00), making **Facebook** the more cost-effective platform overall.
 
+![CTR Comparison(https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook_click-conversion.png)
+![CTR Comparison(https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/adwords_click-conversion.png)
+
+- All the histogram are showing somewhat symmetrical shape. This symmetrical shape suggests that the number of clicks and conversions is relatively evenly distributed. In other words, 
+  there are not many clicks or conversions that are outliers on either the high or low end.
+
 ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/daily_conversion-by-conversion_category.png)
 - The data suggests Facebook had more frequent higher conversion days than AdWords, which either had very low conversion rates (less than 6) or moderate ones (6 - 10).
 - There is a significant variance in the number of high-conversion days between two different campaigns.
