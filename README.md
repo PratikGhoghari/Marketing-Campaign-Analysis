@@ -122,5 +122,15 @@ AdWords :  0.45
     - February has the highest CPC value, suggesting that advertising costs may be relatively higher during this month compared to others.
     - Lower CPC values in certain months (e.g., May and November) could indicate periods of higher advertising effectiveness or more favorable market conditions.
     - Consider allocating more advertising budget to months with historically lower CPC values (e.g., May and November) to maximize ROI.
+  ## ** Is there a long-term relationship between advertising spend and conversion rates that suggests a stable, proportional impact of budget changes on conversions over time? **
+   - Cointegration test score: -14.755428385103219
+   - P-value: 2.1337375979061323e-26
+     
+  - Since the p-value is significantly lower than the chosen significance level, we reject the null hypothesis. This indicates that there is a long-term equilibrium relationship between 
+    advertising spend (cost) and conversions.
+  
+  - Businesses can use this understanding of the stable relationship between cost and conversions to optimize their advertising strategies. By investing in campaigns that demonstrate a 
+    strong return on investment (ROI) and adjusting spending based on performance, companies can maximize conversions while minimizing costs.
+    
 ## **Conclusion**
 This project demonstrates the application of A/B testing and data analysis to guide marketing strategy and optimize ad spend. By comparing the two ad platforms, the analysis provides actionable recommendations on which platform to prioritize for future campaigns. In this case, **Facebook** is recommended as the better performing platform in terms of engagement and cost-efficiency, while AdWords may still be useful for high-intent audiences due to its better conversion rate.
