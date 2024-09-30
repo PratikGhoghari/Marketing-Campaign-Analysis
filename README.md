@@ -38,19 +38,19 @@ The analysis involves:
 - **AdWords Campaign**: Displayed a **Conversion Rate** of 1.8%, slightly better than Facebook’s Conversion Rate of 1.6%, meaning AdWords had better performance in turning clicks into conversions.
 - Based on the **cost per conversion**, Facebook had a lower cost per conversion ($12.50) compared to AdWords ($15.00), making **Facebook** the more cost-effective platform overall.
 
-![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook_click-conversion.png)
-![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/adwords_click-conversion.png)
+![facebook_click conversion](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook_click-conversion.png)
+![adwords_click conversion](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/adwords_click-conversion.png)
 
 - All the histogram are showing somewhat symmetrical shape. This symmetrical shape suggests that the number of clicks and conversions is relatively evenly distributed. In other words, 
   there are not many clicks or conversions that are outliers on either the high or low end.
 
-![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/daily_conversion-by-conversion_category.png)
+![daily_conversion by conversion_category](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/daily_conversion-by-conversion_category.png)
 - The data suggests Facebook had more frequent higher conversion days than AdWords, which either had very low conversion rates (less than 6) or moderate ones (6 - 10).
 - There is a significant variance in the number of high-conversion days between two different campaigns.
 - The absence of any days with conversions between 10 - 15 and more than 15 in AdWords indicates a need to review what strategies were changed or what external factors could have 
   influenced these numbers.
 
-  ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-adwords-click-conversion.png)
+  ![fb adwords click conversion](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-adwords-click-conversion.png)
 
 correlation coefficient
 Facebook : 0.87
@@ -98,7 +98,7 @@ AdWords :  0.45
 
     ## ** Regression Analysis **
     - What will happen when we do go with the Facebook Ad? How many facebook ad conversions can I expect given a certain number of facebook ad clicks?
-      ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-click-conversion-prediction.png)
+      ![fb click conversion prediction](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/fb-click-conversion-prediction.png)
     - For 50 Clicks, Expected Conversion : 13.0
     - For 80 Clicks, Expected Conversion : 19.31
     - Knowing the expected number of Facebook ad conversions based on a certain number of Facebook ad clicks can help in setting realistic campaign goals, optimizing ad spend, and 
@@ -106,8 +106,8 @@ AdWords :  0.45
       
     ## ** Analyzing Facebook Campaign metrics over time. **
     - At what times of the month or days of the week do we observe the conversions?
-     ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20weekly%20conversion.png)
-     ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20monthly%20conversion.png)
+     ![facebook weekly conversion](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20weekly%20conversion.png)
+     ![facebook monthly conversion](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20monthly%20conversion.png)
    - Across the weekdays over a year, the total number of conversions remains relatively consistent, indicating a consistent level of engagement throughout the week. However, Mondays 
      and Tuesdays consistently exhibit the highest conversion rates compared to other days, suggesting that the beginning of the workweek sees heightened user engagement or           
      responsiveness to marketing efforts.
@@ -116,7 +116,7 @@ AdWords :  0.45
      conversion rates could be influenced by factors such as seasonal fluctuations, changes in consumer behavior, or adjustments in marketing strategies.
      
      - How does the Cost Per Conversion (CPC) trend over time?
-     ![CTR Comparison](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20monthly%20cost%20per%20conversion.png)
+     ![facebook monthly cost per conversion](https://github.com/PratikGhoghari/Marketing-Campaign-Analysis/blob/main/facebook%20monthly%20cost%20per%20conversion.png)
     - The CPC trend over the 12-month period shows some fluctuations but overall maintains a relatively stable range.
     - May and November have the lowest CPC values, indicating potentially more cost-effective advertising or higher conversion rates during these periods.
     - February has the highest CPC value, suggesting that advertising costs may be relatively higher during this month compared to others.
